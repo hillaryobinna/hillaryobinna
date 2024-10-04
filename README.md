@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">My name is Oyima Hillary Obinna, a web developer, medical representative and i am from Enugu state Ngeria.<br>I am a  B. SC. holder in computer science and i am currently learning html, css, python and javascript.</p>
+<p align="left">My name is Oyima Hillary Obinna, a web developer, medical representative and i am from Enugu state Ngeria.<br>I am a  B. SC. holder in computer science and i am currently learning html, css, python and javascript. tel. No. 08062339216</p>
+
 
 ###
 
